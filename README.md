@@ -260,10 +260,11 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 📞 Contato
 
-**Breno Dev** - breno.dev@example.com
+**Breno Dev** 
 
 Link do Projeto: [https://github.com/brenodev/finance-control-api](https://github.com/brenodev/finance-control-api)
 
 ---
 
 ⭐ **Dê uma estrela se este projeto te ajudou!**
+
